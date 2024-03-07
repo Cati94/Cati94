@@ -48,45 +48,45 @@ int main()
 
 <br> <br>
 
- <sub> Podia ser assim que começava o "Sobre mim", mas faltavam uns quantos terabytes de código genético, com bugs!
+ Podia ser assim que começava o "Sobre mim", mas faltavam uns quantos terabytes de código genético, com bugs!
  
-<sub>Em suma, sou a Catarina (não, não sou o Mac OS X 10.15 Catalina), sou mesmo a Catarina! Poderia ser a Grande, mas sou Grande, apesar de pequenina!
+Em suma, sou a Catarina (não, não sou o Mac OS X 10.15 Catalina), sou mesmo a Catarina! Poderia ser a Grande, mas sou Grande, apesar de pequenina!
 
-<sub> Mente iNquieta, iMparável, iNcansável na sua busca pelo conhecimento, mas apesar de tantos "i", não sou um "produto Apple", nem gosto de maças!
+ Mente iNquieta, iMparável, iNcansável na sua busca pelo conhecimento, mas apesar de tantos "i", não sou um "produto Apple", nem gosto de maças!
 
-<sub> Professora de formação inicial, por coincidência em ensino da lingua em que o meu nome dá o nome a uma das versões do sistema operativo da Apple (Mac OS 10.15),  tanta coincidência...
-<sub> Inconformada, fiz dos limões que a vida me deu, em forma de pandemia, e fiz uma bateria! Que é como quem diz "uma bateria de formações", que me levou a aperceber  a paixão que tenho pela tecnologia!
-<sub> Quando nasci o mundo dava as boas vindas ao nascimento do sistema operativo que haveria de o mudar... Não! Não era da Apple, era da Microsoft! Em 1994, o mundo < daria as boas vindas ao Windows 95!
-<sub> Eu só o conheceria mais tarde, mas cedo me fascinou!
+ Professora de formação inicial, por coincidência em ensino da lingua em que o meu nome dá o nome a uma das versões do sistema operativo da Apple (Mac OS 10.15),  tanta coincidência...
+ Inconformada, fiz dos limões que a vida me deu, em forma de pandemia, e fiz uma bateria! Que é como quem diz "uma bateria de formações", que me levou a aperceber  a paixão que tenho pela tecnologia!
+ Quando nasci o mundo dava as boas vindas ao nascimento do sistema operativo que haveria de o mudar... Não! Não era da Apple, era da Microsoft! Em 1994, o mundo < daria as boas vindas ao Windows 95!
+ Eu só o conheceria mais tarde, mas cedo me fascinou!
 
-<sub> Aprendi a programar Basic num ZX Spectrum... Com idade para ser meu pai, fosse eu um computador e os chips se auto-multiplicassem! Numa tarde solarenga, aprendi  o Basic!
-<sub> E as coincidências continuaram... Aprendi que gostava de café... Não de Coffee Script, mas de café de beber... Pouco depois aprendi Java! Com café, ou sem ele! ;) 
+ Aprendi a programar Basic num ZX Spectrum... Com idade para ser meu pai, fosse eu um computador e os chips se auto-multiplicassem! Numa tarde solarenga, aprendi  o Basic!
+E as coincidências continuaram... Aprendi que gostava de café... Não de Coffee Script, mas de café de beber... Pouco depois aprendi Java! Com café, ou sem ele! ;) 
 
-</sub> Não contente, aprendi Cobol, homenageando o meu fascinio por dinossauros. Foi o mais proximo que consegui de me "tornar um"!
-<sub> Mas a busca não para e não se é criança para sempre... Aprendi Pascal... Apesar de não falar francês (Perdoa-me Blaise Pascal)!
-<sub> Aprendi C e C++ que é como quem diz "C"atarina e "C"atarina muito mais" (C++), quase preságio do que iria ser!
+ Não contente, aprendi Cobol, homenageando o meu fascinio por dinossauros. Foi o mais proximo que consegui de me "tornar um"!
+ Mas a busca não para e não se é criança para sempre... Aprendi Pascal... Apesar de não falar francês (Perdoa-me Blaise Pascal)!
+ Aprendi C e C++ que é como quem diz "C"atarina e "C"atarina muito mais" (C++), quase preságio do que iria ser!
 
-<sub> Aprendi ainda mais... Aprendi ECMAScript e PHP, mas pr quê ? Para aprender mais ainda!
+Aprendi ainda mais... Aprendi ECMAScript e PHP, mas pr quê ? Para aprender mais ainda!
 
-<sub> De professora a aprendiz... Aprendi mais e mais... Nunca quieta, mas sempre despachada, aprendi de tudo um pouco, e do muito descobri, que tudo o que aprendi era nada... Comparado com o que viria a aprender!
-<sub> com um Ar pequenino aprendi a montar circuitos num Ar...Duino! E com ele ensinei robótica!
+ De professora a aprendiz... Aprendi mais e mais... Nunca quieta, mas sempre despachada, aprendi de tudo um pouco, e do muito descobri, que tudo o que aprendi era nada... Comparado com o que viria a aprender!
+com um Ar pequenino aprendi a montar circuitos num Ar...Duino! E com ele ensinei robótica!
 
-<sub> Ainda com muito para aprender, mas sempre com muita vontade, mais do que um professor de "prateleira", sou aprendiz de verdade! Tornei-me aprendiz, para sempre aprender... 
-<sub> Mais que "mais mais", serei Catarina, em todas as iterações, aprendiz, professora, mente inquieta, talvez "Stora", alguém que se recusou a baixar os braços... E aprendeu cada vez mais!
-<sub> A menina das coincidências, de mente aguçada (sharp), e de nome Catarina, aprendi C#, mas senti-me pequenina!
+Ainda com muito para aprender, mas sempre com muita vontade, mais do que um professor de "prateleira", sou aprendiz de verdade! Tornei-me aprendiz, para sempre aprender... 
+ Mais que "mais mais", serei Catarina, em todas as iterações, aprendiz, professora, mente inquieta, talvez "Stora", alguém que se recusou a baixar os braços... E aprendeu cada vez mais!
+A menina das coincidências, de mente aguçada (sharp), e de nome Catarina, aprendi C#, mas senti-me pequenina!
 
-<sub> No futuro ainda quero aprender Rust(ferrugem), ainda que não esteja enferrujada!
+ No futuro ainda quero aprender Rust(ferrugem), ainda que não esteja enferrujada!
 
-<sub> Ainda quero aprender Maple, mas apenas por piada! (Prometo não cometer o mesmo bug)! Haja quem entenda a piada! Talvez muito poucos, mas os poucos serão muitos, a perceber o bug, de 1994!
-<sub> Não era o Y2k, era mesmo o MSUD, um bug de "overflow"... O bug que me lixou!
+ Ainda quero aprender Maple, mas apenas por piada! (Prometo não cometer o mesmo bug)! Haja quem entenda a piada! Talvez muito poucos, mas os poucos serão muitos, a perceber o bug, de 1994!
+ Não era o Y2k, era mesmo o MSUD, um bug de "overflow"... O bug que me lixou!
 
-<sub> Tenho tanto para aprender, e tanto para ensinar, faço minhas as palavras do sábio que diz que a melhor forma de ensinar é aprender, para aprender o que posso e ensinar o que sei!
+Tenho tanto para aprender, e tanto para ensinar, faço minhas as palavras do sábio que diz que a melhor forma de ensinar é aprender, para aprender o que posso e ensinar o que sei!
 
-<sub> Sou a mente inquieta que nasci, aprenderei tudo o que serei!
+ Sou a mente inquieta que nasci, aprenderei tudo o que serei!
 
-<sub> Com 8 bits ou bytes, vou escrevendo alguns bitaites! Contando a história de um professor, que se tornou programador! Colecionador de retro-computing de 8 bits animados, quem diria que se descreve o mundo...
-<sub> Em poucos quadrados! Oito por oito, diga-se em verdade, assim se compunham as imagens, na "antiguidade"!
-<sub> A colecção deu mote, ao site que escrevo, Catarina 8Bits! Uma homenagem ao tempo onde com pouco se fazia muito e na simplicidade se escrevia a beleza e com apenas 8 pequeninos bits, se fazia magia!
-<sub>
+ Com 8 bits ou bytes, vou escrevendo alguns bitaites! Contando a história de um professor, que se tornou programador! Colecionador de retro-computing de 8 bits animados, quem diria que se descreve o mundo...
+Em poucos quadrados! Oito por oito, diga-se em verdade, assim se compunham as imagens, na "antiguidade"!
+A colecção deu mote, ao site que escrevo, Catarina 8Bits! Uma homenagem ao tempo onde com pouco se fazia muito e na simplicidade se escrevia a beleza e com apenas 8 pequeninos bits, se fazia magia!
+
 
  
