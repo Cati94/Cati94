@@ -30,6 +30,7 @@
 
 <h1>Sobre mim<h1>
 
+```c
 
 #include stdio.h
 
