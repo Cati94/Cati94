@@ -28,7 +28,7 @@
 
 </div>
 
-<h1>Sobre mim<h1>
+<h3>Sobre mim<h3>
 
 ```c
 
