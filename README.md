@@ -67,7 +67,8 @@ Poderia ser a Grande, mas sou Grande, apesar de pequenina!
 
 
  Professora de formação inicial, por coincidência em ensino da lingua
- em que o meu nome dá o nome a uma das versões do sistema operativo da Apple (Mac OS 10.15),
+ em que o meu nome dá o nome a uma das versões do sistema operativo
+ da Apple (Mac OS 10.15),
   tanta coincidência...
  Inconformada, fiz dos limões que a vida me deu,
 em forma de pandemia, e fiz uma bateria!
@@ -90,9 +91,11 @@ Não de Coffee Script, mas de café de beber...
 Pouco depois aprendi Java! Com café, ou sem ele! ;) 
 
 
- Não contente, aprendi Cobol, homenageando o meu fascinio por dinossauros.
+ Não contente, aprendi Cobol,
+ homenageando o meu fascinio por dinossauros.
 Foi o mais proximo que consegui de me "tornar um"!
- Mas a busca não para e não se é criança para sempre... Aprendi Pascal...
+ Mas a busca não para e não se é criança para sempre...
+Aprendi Pascal...
  Apesar de não falar francês (Perdoa-me Blaise Pascal)!
  Aprendi C e C++ que é como quem diz "C"atarina
 e "C"atarina muito mais" (C++), quase preságio do que iria ser!
@@ -109,7 +112,8 @@ Aprendi mais e mais...
  aprendi de tudo um pouco, e do muito descobri,
  que tudo o que aprendi era nada...
 Comparado com o que viria a aprender!
-com um Ar pequenino aprendi a montar circuitos num Ar...Duino! E com ele ensinei robótica!
+com um Ar pequenino aprendi a montar circuitos
+ num Ar...Duino! E com ele ensinei robótica!
 
 
 
