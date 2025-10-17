@@ -138,14 +138,17 @@ e de nome Catarina, aprendi C#, mas senti-me pequenina!
 
 
 Tenho tanto para aprender, e tanto para ensinar, faço minhas as palavras do sábio
- que diz que a melhor forma de ensinar é aprender, para aprender o que posso e ensinar o que sei!
+ que diz que a melhor forma de ensinar é aprender,
+ para aprender o que posso e ensinar o que sei!
 
  Sou a mente inquieta que nasci, aprenderei tudo o que serei!
 
  Com 8 bits ou bytes, vou escrevendo alguns bitaites!
  Contando a história de um professor, que se tornou programador!
- Colecionador de retro-computing de 8 bits animados, quem diria que se descreve o mundo...
-Em poucos quadrados! Oito por oito, diga-se em verdade, assim se compunham as imagens, na "antiguidade"!
+ Colecionador de retro-computing de 8 bits animados,
+ quem diria que se descreve o mundo...
+Em poucos quadrados! Oito por oito, diga-se em verdade,
+assim se compunham as imagens, na "antiguidade"!
 A colecção deu mote, ao site que escrevo, Catarina 8Bits!
  Uma homenagem ao tempo onde com pouco se fazia muito
 e na simplicidade se escrevia a beleza e com apenas 8 pequeninos bits, se fazia magia!
